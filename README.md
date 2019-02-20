@@ -269,7 +269,17 @@ Two consonants can be combined to form a conjunct consonant using the virāma si
 
 ### Word Boundaries and Sentence Boundaries
 
-The earliest attestation of Brahmi script (the Edicts of King Aśoka) portrays an extensive use of space as the word delimiter. It is assumed that this practice was influenced by Ancient Greek’s orthography in which space is used for the word delimiter. Generally, phrase and sentence boundaries are implicitly marked with (1) enclitic conjunction 𑀘 /ca/ ‘and’, (2) direct-speech particle 𑀇𑀢𑀺 /iti/ ‘thus’, and (3) subordinate conjunction 𑀢𑀺 /ti/ ‘because’. In proses and poetry, the single ḍanda (𑁇) was used for clause delimiters, while the double ḍanda (𑁈), as verse delimiters.
+The earliest attestation of Brahmi script (the Edicts of King Aśoka) portrays an extensive use of space as the word delimiter. It is assumed that this practice was influenced by Ancient Greek’s orthography in which space is used for the word delimiter. Generally, phrase and sentence boundaries are implicitly marked with (1) enclitic conjunction 𑀘 /ca/ ‘and’, (2) direct-speech particle 𑀇𑀢𑀺 /iti/ ‘thus’, and (3) subordinate conjunction 𑀢𑀺 /ti/ ‘because’. In proses and poetry, the single ḍanda (𑁇) was used for clause delimiters, while the double ḍanda (𑁈), as verse delimiters. For example, famous Sanskrit poem [Ambā](https://www.youtube.com/watch?v=RBa4PcuzAaE) (Mother) is rendered as follows.
+
+    𑀅𑀫𑁆𑀩𑀸 𑀲𑀢𑀢𑀁 𑀮𑀸𑀮𑀬𑀢𑀺 𑁇
+    𑀅𑀫𑁆𑀩𑀸 𑀲𑀢𑀢𑀁 𑀧𑀸𑀮𑀬𑀢𑀺 𑁇
+    𑀅𑀫𑁆𑀩𑀸 𑀲𑀢𑀢𑀁 𑀯𑁂𑀤𑀬𑀢𑀺 𑁇
+    𑀅𑀫𑁆𑀩𑀸 𑀲𑀢𑀢𑀁 𑀢𑁄𑀱𑀬𑀢𑀺 𑁈 
+    
+    𑀅𑀫𑁆𑀩𑀸 𑀦𑀺𑀢𑁆𑀬𑀁 𑀲𑁆𑀭𑀸𑀧𑀬𑀢𑀺 𑁇
+    𑀅𑀫𑁆𑀩𑀸 𑀦𑀺𑀢𑁆𑀬𑀁 𑀪𑁄𑀚𑀬𑀢𑀺 𑁇
+    𑀅𑀫𑁆𑀩𑀸 𑀕𑀻𑀢𑀁 𑀰𑁆𑀭𑀸𑀯𑀬𑀢𑀺 𑁇
+    𑀅𑀫𑁆𑀩𑀸 𑀫𑀸𑀫𑀓𑀲𑀭𑁆𑀯𑀲𑁆𑀯𑀫𑁆 𑁈
 
 
 ## License Message
