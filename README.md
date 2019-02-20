@@ -263,7 +263,7 @@ The candrabindu 𑀀 /aṁ/ becomes very similar to the anusvara 𑀁 /aṃ/ whe
 
 ### Conjunct Consonants
 
-Two consonants can be combined to form a conjunct consonant using the virāma sign (𑁆), which cancels the inherent /a/ sound. For example, 𑀲 /sa/ + virāma + 𑀢 /ta/ + virāma + 𑀭 /ra/ = 𑀲𑁆𑀢𑁆𑀭 /stra/; therefore 𑀰𑀸𑀲𑁆𑀢𑁆𑀭𑀸 is articulated as /śāstrā/. In the earliest attestation of Brahmi script (the Edicts of King Aśoka, circa 500 BC), conjunct consonants were written consecutively. But this practice evolved to a stacked conjunct consonant for orthographical compactness in the following Gupta Dynasty era (circa 200 BC). The font Google Noto Sans Brahmi supports the Aśoka’s version, while Microsoft’s font Segoe UI Historic supports the Gupta Dynasty version.
+Two consonants can be combined to form a conjunct consonant using the virāma sign (𑁆), which cancels the inherent /a/ sound. For example, 𑀲 /sa/ + virāma + 𑀢 /ta/ + virāma + 𑀭 /ra/ = 𑀲𑁆𑀢𑁆𑀭 /stra/; therefore 𑀰𑀸𑀲𑁆𑀢𑁆𑀭𑀸 is articulated as /śāstrā/. In the earliest attestation of Brahmi script (the Edicts of King Aśoka, circa 500 BC), conjunct consonants were written consecutively. But this practice evolved to stacking up a conjunct consonant for orthographical compactness in the following Gupta Dynasty era (circa 200 BC). The font Google Noto Sans Brahmi supports the Aśoka’s version, while Microsoft’s font Segoe UI Historic supports the Gupta Dynasty version.
 
 ### Word Boundaries and Sentence Boundaries
 
