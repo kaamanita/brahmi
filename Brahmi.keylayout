@@ -2,8 +2,8 @@
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
 <!--The MIT License&#x000A;&#x000A;Copyright 2019 Prachya Boonkwan&#x000A;&#x000A;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the &#x0022;Software&#x0022;), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&#x000A;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&#x000A;&#x000A;THE SOFTWARE IS PROVIDED &#x0022;AS IS&#x0022;, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.-->
 <!---->
-<!--Last edited by Ukelele version 3.3.0.249 on 2019-02-20 at 22:35 (GMT+7)-->
-<keyboard group="126" id="-824" name="Brahmi" maxout="1">
+<!--Last edited by Ukelele version 3.3.0.249 on 2019-02-21 at 00:55 (GMT+7)-->
+<keyboard group="126" id="-1322" name="Brahmi" maxout="1">
     <layouts>
         <layout first="0" last="17" mapSet="ANSI" modifiers="Modifiers"/>
         <layout first="18" last="18" mapSet="JIS" modifiers="Modifiers"/>
@@ -38,7 +38,7 @@
     </modifierMap>
     <keyMapSet id="ANSI">
         <keyMap index="0">
-            <key code="0" output=""/>
+            <key code="0" output="𑀸"/>
             <key code="1" output="𑀲"/>
             <key code="2" output="𑀤"/>
             <key code="3" output="𑁆"/>
