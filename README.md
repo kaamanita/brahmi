@@ -58,8 +58,6 @@ Most consonants are mapped to their equivalent Sanskrit romanization on the keyb
 
 Almost all vowels are placed on the keyboard layout with respect to their equivalent Sanskrit romanization. However, the vocalic r and l are positioned at the keys [`[`] and [`]`], respectively.
 
-Dependent form	Independent form
-
 | | | | |
 |-|-|-|-|
 | /a/ | 𑀸 /ā/ | 𑀅 /ʔa/ | 𑀆 /ʔā/ |
