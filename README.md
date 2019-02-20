@@ -63,7 +63,7 @@ Almost all vowels are placed on the keyboard layout with respect to their equiva
 | | | | |
 |-|-|-|-|
 | /a/ | 𑀸 /ā/ | 𑀅 /ʔa/ | 𑀆 /ʔā/ |
-| [A] | Shift+[A] | Alt+[A] | Shift+Alt+[A] |
+|     | Shift+[A] | Alt+[A] | Shift+Alt+[A] |
 | 𑀺 /i/ | 𑀻 /ī/ | 𑀇 /ʔi/ | 𑀈 /ʔī/ |
 | [I] | Shift+[I] | Alt+[I] | Shift+Alt+[I] |
 | 𑀼 /u/ | 𑀽 /ū/ | 𑀉 /ʔu/ | 𑀊 /ʔū/ |
