@@ -191,7 +191,7 @@ The vowels in the first four categories are attached to a consonant, while those
 
 #### Rotation Rules
 
-Once we can identify the shape of a consonant and the attachment position of a vowel diacritic mark, we can now determine the shape of the latter by the following rotation rules.
+Once we identify the shape of a consonant and the attachment position of a vowel diacritic mark, we can now determine the shape of the latter by the following rotation rules.
 
 **Rule 1:** If the shape of the attached part is straight or angled, the vowel can be directly attached to that part.
 
