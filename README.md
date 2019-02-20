@@ -5,7 +5,7 @@ Brahmi Keyboard Layout for Mac OS X
 
 This manual and keyboard layout are designed to help you make use of the Brahmi keyboard layout (v1.0). This keyboard layout is developed to facilitate typing of [Brahmi](https://en.wikipedia.org/wiki/Brahmi_script) texts including vowel diacritics (saras), conjunct consonants (saṃyoga), and Brahmi numbers. It works with Mac OS X 10.10 onwards and is made available for downloads from [Prachya Boonkwan’s Github](https://github.com/kaamanita/brahmi). The keyboard layout was designed by Prachya Boonkwan as a hobby using Ukelele Keyboard Layout Designer (available on App Store) and is distributed under the MIT License.
 
-Note that the keyboard layout is based on Unicode character encoding. It cannot be installed on older operating systems that do not support Unicode and will not work with non-Unicode applications that rely on 8-bit character set. This manual is typeset using the Unicode-enabled font Google Noto Sans Brahmi.
+Note that the keyboard layout is based on Unicode character encoding. It cannot be installed on older operating systems that do not support Unicode and will not work with non-Unicode applications that rely on 8-bit character set. This manual is typeset using the Unicode-enabled font [Google Noto Sans Brahmi](https://www.google.com/get/noto/).
 
 For illustrative examples of Brahmi script, please visit this ebook "[Brahmi: Rediscovering the Lost Script](http://dsource.in/sites/default/files/case-study/brahmi/introduction/file/Brahmi.pdf)" by Ankita Roy.
 
