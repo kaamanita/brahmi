@@ -124,6 +124,21 @@ The values from 10 to 90 can be achieved by pressing a combination of Shift + Al
 
 The non-digit system is preserved in the keyboard layout only for the purpose of ancient text transcription. Its use is rather discouraged because it under-represents the decimal system.
 
+### Punctuation Marks
+
+There are seven punctuation marks in Brahmi script. Each of them is graded according to the levels of segmentation.
+
+| | | |
+|-|-|-|
+| 𑁇 | [ . ] | End of clause (single ḍanda) |
+| 𑁈 | Shift+[ . ] | End of verse (double ḍanda) |
+| 𑁉 | [ ; ] | Comma |
+| 𑁊 | Shift+[ ; ] | Colon |
+| 𑁋 | [ / ] | Dash |
+| 𑁌 | Shift+[ / ] | End of section |
+| 𑁍 | [ ` ] | End of chapter |
+
+
 ## Orthographical System
 
 ### Combination of Consonants and Vowels
