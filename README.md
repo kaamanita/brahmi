@@ -7,6 +7,8 @@ This manual and keyboard layout are designed to help you make use of the Brahmi 
 
 Note that the keyboard layout is based on Unicode character encoding. It cannot be installed on older operating systems that do not support Unicode and will not work with non-Unicode applications that rely on 8-bit character set. This manual is typeset using the Unicode-enabled font Google Noto Sans Brahmi.
 
+For illustrative examples of Brahmi script, please visit this ebook "[Brahmi: Rediscovering the Lost Script](http://dsource.in/sites/default/files/case-study/brahmi/introduction/file/Brahmi.pdf)" by Ankita Roy.
+
 ## Instruction for Installation
 
 Brahmi Keyboard Layout is packaged in a disk image file with the DMG extension. Follow the instruction below to install the keyboard layout.
