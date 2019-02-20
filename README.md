@@ -86,13 +86,17 @@ One final remark to make here is that the short vowel /a/ does not have any glyp
 
 There are two numeral systems in Brahmi script: the digit one and the older non-digit one.
 
-**The digit system** is based on the decimal numbers, similar to the current Hindu-Arabic numbers.
+#### The Digit System
+
+The digit system is based on the decimal numbers, similar to the current Hindu-Arabic numbers.
 
 | 𑁦 | 𑁧 | 𑁨 | 𑁩 | 𑁪 | 𑁫 | 𑁬 | 𑁭 | 𑁮 | 𑁯 |
 |-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
 | [0] | [1] | [2] | [3] | [4] | [5] | [6] | [7] | [8] | [9] |
 
 Note that the number zero is represented by a single middle dot. These Brahmi digits can be achieved by pressing their equivalent keystrokes in English.
+
+#### The Non-Digit System
 
 The non-digit system, on the other hand, is not based on the decimal numbers because each numeral value is represented by a distinct glyph. These non-digit number glyphs can be achieved by pressing Alt + number.
 
@@ -119,6 +123,136 @@ The values from 10 to 90 can be achieved by pressing a combination of Shift + Al
 | Shift+Alt+[9] | Alt+[ - ] | Alt+[ = ]	 |
 
 The non-digit system is preserved in the keyboard layout only for the purpose of ancient text transcription. Its use is rather discouraged because it under-represents the decimal system.
+
+## Orthographical System
+
+### Combination of Consonants and Vowels
+
+When a consonant is combined with a dependent vowel, the vowel becomes a diacritic mark attached to the consonant. The shape of the vowel diacritic mark depends on the shape of the consonant and the  attachment position of the vowel (top or bottom).
+
+#### Consonant Shapes
+
+In Brahmi script, we characterize the shape of a consonant by its top and bottom parts. Each part is either straight, round, flat, or angled. For example, the following characters have distinct shapes of the top part.
+
+| 𑀓 /k/ | 𑀣 /th/ | 𑀜 /ñ/ | 𑀕 /g/ |
+|-|-|-|-|
+| straight | round | flat | angled |
+
+On the other hand, the following characters have different shapes of the bottom part.
+
+| 𑀔 /kh/ | 𑀧 /p/ | 𑀩 /b/ | 𑀢 /t/ |
+|-|-|-|-|
+| straight | round | flat | angled |
+
+There is only one exception for the character 𑀪 /bh/, presumably derived from the capital Pi (Π) in Ancient Greek. In this case, we consider the top part as flat, and the bottom part as straight. This is because the vowels will be attached to the right-hand-side pillar.
+
+#### Vowel Attachment
+
+We characterize any vowel diacritic mark by its attachment position: top-left, top-right, bottom-right, top, and outside. The following chart classifies each vowel diacritic into five attachment positions as follows.
+
+| Top-left | 𑁂 | 𑁃  |
+|-|-|-|
+| | /e/ | /ai/ |
+
+| Top-right | 𑀸 | 𑀺 | 𑀻 |
+|-|-|-|-|
+| | /ā/ | /i/ | /ī/ |
+
+| Bottom-right | 𑀼 | 𑀽 |
+|-|-|-|
+| | /u/ | /ū/ |
+
+| Top | 𑁄 | 𑁅 |
+|-|-|-|
+| | /o/ | /au/ |
+
+| Outside | 𑀾 | 𑀿 | 𑁀 | 𑁁 | 𑀁 | 𑀀 | 𑀂 |
+|-|-|-|-|-|-|-|-|
+| | /ṛ/ | /ṝ/ | /ḷ/ | /ḹ/ | /aṃ/ | /aṁ/ | /aḥ/ |
+
+The vowels in the first four categories are attached to a consonant, while those in the last category (outside) are written separately. When attached to a consonant, a vowel may change its orientation with respect to the following rotation rules to comply with the shape of the consonant.
+
+#### Rotation Rules
+
+Once we can identify the shape of a consonant and the attachment position of a vowel diacritic mark, we can now determine the shape of the latter by the following rotation rules.
+
+**Rule 1:** If the shape of the attached part is straight or angled, the vowel can be directly attached to that part.
+
+| | |
+|-|-|
+| 𑀓 /k/ + 𑁂 /e/ = 𑀓𑁂 /ke/ | 𑀕 /g/ + 𑁂 /e/ = 𑀕𑁂 /ge/ |
+| 𑀓 /k/ + 𑀸 /ā/ = 𑀓𑀸 /kā/ | 𑀕 /g/ + 𑀸 /ā/ = 𑀕𑀸 /gā/ |
+| 𑀓 /k/ + 𑀼 /u/ = 𑀓𑀼 /ku/ | 𑀕 /g/ + 𑀼 /u/ = 𑀕𑀼 /gu/ |
+| 𑀓 /k/ + 𑁄 /o/ = 𑀓𑁄 /ko/ | 𑀕 /g/ + 𑁄 /o/ = 𑀕𑁄 /go/ |
+| 𑀓 /k/ + 𑀁 /aṃ/ = 𑀓𑀁 /kaṃ/ | 𑀕 /g/ + 𑀁 /aṃ/ = 𑀕𑀁 /gaṃ/ |
+
+**Rule 2:** In the case where the shape of the attached part is round, consider rules 2.1 and 2.2.
+
+**Rule 2.1:** If the attachment position is top-left, top-right, top, or outside, we sometimes move the vowel slightly towards the center to avoid overlapping.
+
+| | |
+|-|-|
+| 𑀣 /th/ + 𑁂 /e/ = 𑀣𑁂 /the/ | 𑀔 /kh/ + 𑁂 /e/ = 𑀔𑁂 /khe/ |
+| 𑀣 /th/ + 𑀸 /ā/ = 𑀣𑀸 /thā/ | 𑀔 /kh/ + 𑀸 /ā/ = 𑀔𑀸 /khā/ |
+| 𑀣 /th/ + 𑁄 /o/ = 𑀣𑁄 /tho/ | 𑀔 /kh/ + 𑁄 /o/ = 𑀔𑁄 /kho/ |
+| 𑀣 /th/ + 𑀁 /aṃ/ = 𑀣𑀁 /thaṃ/ | 𑀧 /p/ + 𑀁 /aṃ/ = 𑀧𑀁 /paṃ/ |
+
+**Rule 2.2:** If the position is bottom-right, we rotate the vowel before attaching.
+
+| | |
+|-|-|
+| 𑀣 /th/ + 𑀼 /u/ = 𑀣𑀼 /thu/ | 𑀧 /p/ + 𑀼 /u/ = 𑀧𑀼 /pu/ |
+
+**Rule 3:** In the case where the shape of the attached part is flat, consider rules 3.1 and 3.2.
+
+**Rule 3.1:** If the position is top-left, top-right, or top, we sometimes move the vowel slightly towards the center to avoid overlapping.
+
+| | |
+|-|-|
+| 𑀜 /ñ/ + 𑁂 /e/ = 𑀜𑁂 /ñe/ | 𑀗 /ṅ/ + 𑁂 /e/ = 𑀗𑁂 /ṅe/ |
+| 𑀜 /ñ/ + 𑀸 /ā/ = 𑀜𑀸 /ñā/ | 𑀗 /ṅ/ + 𑀸 /ā/ = 𑀗𑀸 /ṅā/ |
+| 𑀜 /ñ/ + 𑁄 /o/ = 𑀜𑁄 /ño/ | 𑀗 /ṅ/ + 𑁄 /o/ = 𑀗𑁄 /ṅo/ |
+| 𑀜 /ñ/ + 𑀁 /aṃ/ = 𑀜𑀁 /ñaṃ/ | 𑀗 /ṅ/ + 𑀁 /aṃ/ = 𑀗𑀁 /ṅaṃ/ |
+
+**Rule 3.2:** If the position is bottom-right, we rotate the vowel before attaching.
+
+| | |
+|-|-|
+| 𑀦 /n/ + 𑀼 /u/ = 𑀦𑀼 /nu/ | 𑀩 /b/ + 𑀼 /u/ = 𑀩𑀼 /bu/ |
+
+The rotation rules aforementioned can be summarized as follows.
+
+| Shape | Part | Action |
+|-|-|-|
+| straight | any | Attach |
+| angled | any | Attach |
+| round | top | Move towards center |
+| | bottom | Rotate |
+| flat | top | Move towards center |
+| | bottom | Rotate |
+
+### Remarks on Vowel Attachment
+
+#### Remark 1
+
+As aforementioned, the character 𑀪 /bh/ is an exceptional case for vowel attachment. Since the vowels will be attached to the right-hand-side pillar, we obtain the following attachment scheme.
+
+| top-left | top-right | bottom-right | top | outside |
+|-|-|-|-|-|
+| 𑀪 | 𑀪𑀸 | 𑀪𑀼 | 𑀪𑁄 | 𑀪𑀁 |
+| /bhe/ | /bhā/ | /bhu/ | /bho/ | /bhaṃ/ |
+
+#### Remark 2
+
+The candrabindu 𑀀 /aṁ/ becomes very similar to the anusvara 𑀁 /aṃ/ when combined with a consonant, e.g. 𑀓𑀀 /kaṁ/ vs. 𑀓𑀁 /kaṃ/. The candrabindu is articulated as a nasalized sound /an/ in Modern Hindi while the anusvara still preserves the original pronunciation /aṃ/. In the case of the character 𑀪 /bh/, the candrabindu is moved towards the center 𑀪𑀀 /bhaṁ/ while the anusvara is placed above the character 𑀪𑀁 /bhaṃ/.
+
+### Conjunct Consonants
+
+Two consonants can be combined to form a conjunct consonant using the virāma sign (𑁆), which cancels the inherent /a/ sound. For example, 𑀲 /sa/ + virāma + 𑀢 /ta/ + virāma + 𑀭 /ra/ = 𑀲𑁆𑀢𑁆𑀭 /stra/; therefore 𑀰𑀸𑀲𑁆𑀢𑁆𑀭𑀸 is articulated as /śāstrā/. In the earliest attestation of Brahmi script (the Edicts of King Aśoka, circa 500 BC), conjunct consonants were written consecutively. But this practice evolved to a stacked conjunct consonant for orthographical compactness in the following Gupta Dynasty era (circa 200 BC). Therefore, 𑀰𑀸𑀲𑁆𑀢𑁆𑀭𑀸 /śāstrā/ is written as 𑀰𑀸𑀲𑁆𑀢𑁆𑀭𑀸 in the latter period. The font Google Noto Sans Brahmi supports the Aśoka’s version, while Microsoft’s font Segoe UI Historic supports the Gupta Dynasty version.
+
+### Word Boundaries and Sentence Boundaries
+
+The earliest attestation of Brahmi script (the Edicts of King Aśoka) portrays an extensive use of space as the word delimiter. It is assumed that this practice was influenced by Ancient Greek’s orthography in which space is used for the word delimiter. Generally, phrase and sentence boundaries are implicitly marked with (1) enclitic conjunction 𑀘 /ca/ ‘and’, (2) direct-speech particle 𑀇𑀢𑀺 /iti/ ‘thus’, and (3) subordinate conjunction 𑀢𑀺 /ti/ ‘because’. In proses and poetry, the single ḍanda (𑁇) was used for clause delimiters, while the double ḍanda (𑁈), as verse delimiters.
 
 
 ## License Message
