@@ -82,7 +82,7 @@ Almost all vowels are placed on the keyboard layout with respect to their equiva
 
 As seen, vowel lengthening is marked by pressing the shift key. The independent form of a vowel can be achieved by pressing the Alt key. The consonant allophones can also be achieved by pressing the Shift and Alt keys.
 
-One final remark to make here is that the short vowel /a/ does not have any glyphs. This is because each consonant has an inherent /a/ sound; therefore, one can simply type [K] to achieve the sound /ka/. However, the virtually empty keystroke [A] is introduced into the keyboard layout for ease of understanding for Sanskrit beginners who may sometimes accidentally type [K] + [A] trying to achieve the sound /ka/.
+One final remark to make here is that the short vowel /a/ does not have any glyphs. This is because each consonant has an inherent /a/ sound; therefore, one can simply type [K] to achieve the sound /ka/. Typing [K] and Shift+[A] will produce 𑀓𑀸 /kā/. For the purpose of shortcut, the user can also opt for [K] and [A] to produce 𑀓𑀸 /kā/.
 
 ### Numbers
 
