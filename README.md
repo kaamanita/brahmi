@@ -1,4 +1,4 @@
-# brahmi
+# Brahmi
 Brahmi Keyboard Layout for Mac OS X
 
 ## Introduction
