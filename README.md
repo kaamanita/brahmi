@@ -33,7 +33,7 @@ Brahmi Keyboard Layout is packaged in a disk image file with the DMG extension. 
 
 ### Consonants
 
-Most consonants are mapped to their equivalent Sanskrit romanization on the keyboard layout. However, eight consonants are displaced due to linguistic dissimilarity between Sanskrit and English. Consonant aspiration is regularly marked by pressing the shift key.
+Most consonants are mapped to their equivalent Sanskrit romanization on the keyboard layout. However, eight consonants are displaced due to linguistic dissimilarity between Sanskrit and English, i.e. 𑀗 /ṅ/, 𑀜 /ñ/, 𑀝 /ṭ/, 𑀞 /ṭh/, 𑀟 /ḍ/, 𑀠 /ḍh/, 𑀰 /ś/, and 𑀱 /ṣ/. Consonant aspiration is regularly marked by pressing the shift key.
 
 | | | | | |
 |-|-|-|-|-|
