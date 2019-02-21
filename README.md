@@ -301,13 +301,13 @@ More information in [Wikipedia](https://en.wikipedia.org/wiki/Karla_Caves)
 More information in [Wikipedia](https://en.wikipedia.org/wiki/Sohgaura_copper_plate_inscription)
 
     𑀲𑀸𑀯𑀢𑀺𑀬𑀸𑀦𑀁 𑀫𑀳𑀸𑀫𑀸𑀢𑁆𑀢𑀸𑀦𑀁 𑀲𑀸𑀲𑀦𑁂 𑀫𑀸𑀦𑀯𑀸𑀲𑀻𑀢𑀺𑀓
-    Sāvatiyānam Mahāma(ttā)nam sāsane Mānavāsītika
+    Sāvatiyānam Mahāmattānam sāsane Mānavāsītika
     𑀟𑀲𑀺𑀮𑀺𑀫𑀸𑀢𑁂 𑀉𑀲𑁆𑀲𑀕𑀸𑀫𑁂 𑀯 𑀏𑀢𑁂 𑀤𑀼𑀯𑁂 𑀓𑁄𑀝𑁆𑀞𑀸𑀕𑀸𑀮𑀸𑀦𑀺
     ḍasilimate Ussagāme va ete duve koṭṭhāgālāni
     𑀢𑀺𑀦𑀸𑀬𑀯𑀸𑀦𑀺 𑀫𑀁𑀞𑀼𑀮𑁆𑀮𑁄𑀘 𑀙𑀁𑀫𑀸 𑀤𑀸𑀫 𑀪𑀸𑀮𑀓𑀸𑀦𑀺𑀯
     tina-yavāni maṃthulloca-chammā-dāma-bhālakāniva
     𑀮𑀁 𑀓𑀬𑀺𑀬𑀢𑀺 𑀸𑀢𑀺𑀬𑀸𑀬𑀺𑀓𑀸𑀬 𑀦𑁄 𑀕𑀸𑀳𑀺𑀢𑀯𑁆𑀯𑀸𑀬
-    laṃ kayiyati atiyāyikāya no gahi(ta)vvāya
+    laṃ kayiyati atiyāyikāya no gahitavvāya
     
     At the junction called Manawasi,
     these two storehouses are prepared,
