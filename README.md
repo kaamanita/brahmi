@@ -281,6 +281,41 @@ The earliest attestation of Brahmi script (the Edicts of King Aśoka) portrays a
     𑀅𑀫𑁆𑀩𑀸 𑀕𑀻𑀢𑀁 𑀰𑁆𑀭𑀸𑀯𑀬𑀢𑀺 𑁇
     𑀅𑀫𑁆𑀩𑀸 𑀫𑀸𑀫𑀓𑀲𑀭𑁆𑀯𑀲𑁆𑀯𑀫𑁆 𑁈
 
+### Example Texts in Brahmi Script
+
+#### Karla Caves
+
+More information in [Wikipedia](https://en.wikipedia.org/wiki/Karla_Caves)
+
+    𑀥𑁂𑀦𑀼𑀓𑀸𑀓𑀝𑀸 𑀬𑀯𑀦𑀲
+    Dhenukākaṭā Yavanasa
+    𑀬𑀲𑀯𑀥𑀦𑀸𑀦𑀁
+    Yasava dhanānaṃ
+    𑀣𑀩𑁄 𑀤𑀸𑀦𑀁
+    thabo dānaṃ
+    
+    (This) pillar (is) the gift of the Yavana Yasavadhana from Denukakata.
+
+#### Sohgaura copper plate inscription
+
+More information in [Wikipedia](https://en.wikipedia.org/wiki/Sohgaura_copper_plate_inscription)
+
+    𑀲𑀸𑀯𑀢𑀺𑀬𑀸𑀦𑀁 𑀫𑀳𑀸𑀫𑀸𑀢𑁆𑀢𑀸𑀦𑀁 𑀲𑀸𑀲𑀦𑁂 𑀫𑀸𑀦𑀯𑀸𑀲𑀻𑀢𑀺𑀓
+    Sāvatiyānam Mahāma(ttā)nam sāsane Mānavāsītika
+    𑀟𑀲𑀺𑀮𑀺𑀫𑀸𑀢𑁂 𑀉𑀲𑁆𑀲𑀕𑀸𑀫𑁂 𑀯 𑀏𑀢𑁂 𑀤𑀼𑀯𑁂 𑀓𑁄𑀝𑁆𑀞𑀸𑀕𑀸𑀮𑀸𑀦𑀺
+    ḍasilimate Ussagāme va ete duve koṭṭhāgālāni
+    𑀢𑀺𑀦𑀸𑀬𑀯𑀸𑀦𑀺 𑀫𑀁𑀞𑀼𑀮𑁆𑀮𑁄𑀘 𑀙𑀁𑀫𑀸 𑀤𑀸𑀫 𑀪𑀸𑀮𑀓𑀸𑀦𑀺𑀯
+    tina-yavāni maṃthulloca-chammā-dāma-bhālakāniva
+    𑀮𑀁 𑀓𑀬𑀺𑀬𑀢𑀺 𑀸𑀢𑀺𑀬𑀸𑀬𑀺𑀓𑀸𑀬 𑀦𑁄 𑀕𑀸𑀳𑀺𑀢𑀯𑁆𑀯𑀸𑀬
+    laṃ kayiyati atiyāyikāya no gahi(ta)vvāya
+    
+    At the junction called Manawasi,
+    these two storehouses are prepared,
+    for the sheltering of loads of commodities,
+    of Tiyavani, Mathura and Chanchu.
+    — Translated by Fleet [Sircar 1942 Select Inscriptions Vol 1 OCR p.85]
+
+
 
 ## License Message
 The MIT License
