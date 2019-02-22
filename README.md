@@ -281,9 +281,9 @@ The earliest attestation of Brahmi script (the Edicts of King Aśoka) portrays a
     𑀅𑀫𑁆𑀩𑀸 𑀕𑀻𑀢𑀁 𑀰𑁆𑀭𑀸𑀯𑀬𑀢𑀺 𑁇
     𑀅𑀫𑁆𑀩𑀸 𑀫𑀸𑀫𑀓𑀲𑀭𑁆𑀯𑀲𑁆𑀯𑀫𑁆 𑁈
 
-### Example Texts in Brahmi Script
+## Example Texts in Brahmi Script
 
-#### Karla Caves
+### Karla Caves
 
 More information in [Wikipedia](https://en.wikipedia.org/wiki/Karla_Caves)
 
@@ -296,7 +296,7 @@ More information in [Wikipedia](https://en.wikipedia.org/wiki/Karla_Caves)
     
     (This) pillar (is) the gift of the Yavana Yasavadhana from Denukakata.
 
-#### Sohgaura copper plate inscription
+### Sohgaura copper plate inscription
 
 More information in [Wikipedia](https://en.wikipedia.org/wiki/Sohgaura_copper_plate_inscription)
 
