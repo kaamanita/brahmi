@@ -3,7 +3,7 @@ Brahmi Keyboard Layout for Mac OS X
 
 ## What is Brahmi Script?
 
-**Brahmi script** is the oldest attested writing system of Ancient India, apart from the yet-undeciphered Indus script. Brahmi is an abugida, i.e. each consonant has an individual inherent sound, such as 𑀓 /ka/. It makes use of diacritic marks to modify each consonant with a vowel, such as 𑀓𑀺 /ki/, 𑀓𑀼 /ku/, and 𑀓𑁂 /ke/. Some hypotheses state that Brahmi is derived from Aramaic and Greek alphabets as a result of language contact through commerce with Middle Eastern merchants and Indo-Greek communities in Bactria. Brahmi is the ancestor of many scripts used in today’s South, Central, and Southeast Asia, such as Devanagari, Thai, Burmese, and Khmer.
+**Brahmi script** is the oldest attested writing system of Ancient India, apart from the yet-undeciphered Indus script. Brahmi is an abugida, i.e. each consonant has an individual inherent sound, such as 𑀓 /ka/. It makes use of diacritic marks to modify a consonant with a vowel, such as 𑀓𑀺 /ki/, 𑀓𑀼 /ku/, and 𑀓𑁂 /ke/. Some hypotheses state that Brahmi is derived from Aramaic and Greek alphabets as a result of language contact through commerce with Middle Eastern merchants and Indo-Greek communities in Bactria. Brahmi is the ancestor of many scripts used in today’s South, Central, and Southeast Asia, such as Devanagari, Thai, Burmese, and Khmer.
 
 ## Introduction
 
