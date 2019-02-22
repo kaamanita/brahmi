@@ -58,7 +58,7 @@ Most consonants are mapped to their equivalent Sanskrit romanization on the keyb
 | 𑀰 /ś/ | 𑀱 /ṣ/ | 𑀲 /s/ | 𑀳 /h/ | 𑀴 /ɭ/ |
 | [W] | Shift+[W] | [S] | [H] | Shift+[L] |
 
-
+**Virāma:** Conjunct consonants can be achieved using the subconjoiner (*virāma*) on the keystroke [F]. For example, one can easily achieve the conjunct 𑀦𑁆𑀤 /nd/ by keying [N] + virāma [F] + [D].
     
 ### Vowels
 
