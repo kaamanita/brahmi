@@ -294,7 +294,7 @@ More information in [Wikipedia](https://en.wikipedia.org/wiki/Karla_Caves)
     𑀣𑀪𑁄𑁄 𑀤𑀸𑀦𑀁
     thabho dānaṃ
     
-    (This) pillar (is) the gift of the Yavana Yasavadhana from Denukakata.
+**Translation:** “(This) pillar (is) the gift of the Yavana Yasavadhana from Denukakata.”
 
 ### Sohgaura copper plate inscription
 
@@ -309,12 +309,24 @@ More information in [Wikipedia](https://en.wikipedia.org/wiki/Sohgaura_copper_pl
     𑀮𑀁 𑀓𑀬𑀺𑀬𑀢𑀺 𑀸𑀢𑀺𑀬𑀸𑀬𑀺𑀓𑀸𑀬 𑀦𑁄 𑀕𑀸𑀳𑀺𑀢𑀯𑁆𑀯𑀸𑀬
     laṃ kayiyati atiyāyikāya no gahitavvāya
     
-    At the junction called Manawasi,
-    these two storehouses are prepared,
-    for the sheltering of loads of commodities,
-    of Tiyavani, Mathura and Chanchu.
-    — Translated by Fleet [Sircar 1942 Select Inscriptions Vol 1 OCR p.85]
+**Translation:** “At the junction called Manawasi, these two storehouses are prepared, for the sheltering of loads of commodities, of Tiyavani, Mathura and Chanchu.” — Translated by Sircar Fleet (1942) Selected Inscriptions Vol 1 OCR p.85.
 
+### Aśoka Pillar in Lumbini
+
+More information at [Wikipedia](https://en.wikipedia.org/wiki/Lumbini)
+
+	𑀤𑁂𑀯𑀸𑀦𑀁𑀧𑀺𑀬𑁂𑀦 𑀧𑀺𑀬𑀤𑀲𑀺𑀦 𑀮𑀸𑀚𑀺𑀦𑀯𑀻𑀲𑀢𑀺𑀯𑀲𑀸𑀪𑀺𑀲𑀺𑀢𑁂𑀦
+ 	Devānaṃpiyena Piyadasina lājina vīsati-vasābhisitena
+	𑀅𑀢𑀦𑀆𑀕𑀸𑀘 𑀫𑀳𑀻𑀬𑀺𑀢𑁂 𑀳𑀺𑀤𑀩𑀼𑀥𑁂𑀚𑀸𑀢 𑀲𑀓𑁆𑀬𑀫𑀼𑀦𑀺𑀢𑀺
+ 	atana āgāca mahīyite hida Budhe jāte Sakyamuni ti
+	𑀲𑀺𑀮𑀸𑀯𑀺𑀕𑀥𑀪𑀺𑀘𑀸𑀓𑀸𑀳𑀸𑀧𑀺𑀢 𑀲𑀺𑀮𑀸𑀣𑀪𑁂𑀘 𑀉𑀲𑀧𑀸𑀧𑀺𑀢𑁂
+ 	silā vigaḍabhī cā kālāpita silā-thabhe ca usapāpite
+	𑀳𑀺𑀤𑀪𑀕𑀯𑀁𑀚𑀸𑀢𑀢𑀺 𑀮𑀼𑀁𑀫𑀺𑀦𑀺𑀕𑀸𑀫𑁂 𑀉𑀩𑀮𑀺𑀓𑁂𑀓𑀝𑁂
+ 	hida Bhagavaṃ jāte ti Luṃmini-gāme ubalike kaṭe
+	𑀅𑀞𑀪𑀸𑀕𑀺𑀬𑁂𑀘
+ 	aṭha-bhāgiye ca
+
+**Translation:** “When King Devandmpriya Priyadarsin had been anointed twenty years, he came himself and worshipped (this spot) because the Buddha Shakyamuni was born here. (He) both caused to be made a stone bearing a horse (?) and caused a stone pillar to be set up, (in order to show) that the Blessed One was born here. (He) made the village of Lummini free of taxes, and paying (only) an eighth share (of the produce).” — Translated in Hultzsch, E. (1925). Inscriptions of Asoka pp. 164-165.
 
 
 ## License Message
