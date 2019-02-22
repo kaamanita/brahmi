@@ -283,7 +283,7 @@ The earliest attestation of Brahmi script (the Edicts of King Aśoka) portrays a
 
 ## Example Texts in Brahmi Script
 
-### Karla Caves
+### Karla Caves (160 BC)
 
 More information in [Wikipedia](https://en.wikipedia.org/wiki/Karla_Caves)
 
@@ -296,7 +296,7 @@ More information in [Wikipedia](https://en.wikipedia.org/wiki/Karla_Caves)
     
 **Translation:** “(This) pillar (is) the gift of the Yavana Yasavadhana from Denukakata.”
 
-### Sohgaura copper plate inscription
+### Sohgaura copper plate inscription (circa 300 BC)
 
 More information in [Wikipedia](https://en.wikipedia.org/wiki/Sohgaura_copper_plate_inscription)
 
@@ -311,7 +311,7 @@ More information in [Wikipedia](https://en.wikipedia.org/wiki/Sohgaura_copper_pl
     
 **Translation:** “At the junction called Manawasi, these two storehouses are prepared, for the sheltering of loads of commodities, of Tiyavani, Mathura and Chanchu.” — Translated by Sircar Fleet (1942) Selected Inscriptions Vol 1 OCR p.85.
 
-### Aśoka Pillar in Lumbini
+### Aśoka Pillar in Lumbini (circa 300 BC)
 
 More information at [Wikipedia](https://en.wikipedia.org/wiki/Lumbini)
 
