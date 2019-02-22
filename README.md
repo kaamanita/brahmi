@@ -291,8 +291,8 @@ More information in [Wikipedia](https://en.wikipedia.org/wiki/Karla_Caves)
     Dhenukākaṭā Yavanasa
     𑀬𑀲𑀯𑀥𑀦𑀸𑀦𑀁
     Yasava dhanānaṃ
-    𑀣𑀩𑁄 𑀤𑀸𑀦𑀁
-    thabo dānaṃ
+    𑀣𑀪𑁄𑁄 𑀤𑀸𑀦𑀁
+    thabho dānaṃ
     
     (This) pillar (is) the gift of the Yavana Yasavadhana from Denukakata.
 
