@@ -294,7 +294,7 @@ More information in [Wikipedia](https://en.wikipedia.org/wiki/Karla_Caves)
     𑀣𑀪𑁄𑁄 𑀤𑀸𑀦𑀁
     thabho dānaṃ
     
-**Translation:** “(This) pillar (is) the gift of the Yavana Yasavadhana from Denukakata.”
+**Translation:** “(This) pillar (is) the gift of the Yavana Yasavadhana from Denukakata.” — Epigraphia Indica Vol.18 p.328 Inscription No.10
 
 ### Sohgaura copper plate inscription (circa 300 BC)
 
