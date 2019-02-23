@@ -317,7 +317,7 @@ More information in [Wikipedia](https://en.wikipedia.org/wiki/Sohgaura_copper_pl
 
 ### Aśoka Pillar in Lumbini (circa 300 BC)
 
-More information at [Wikipedia](https://en.wikipedia.org/wiki/Lumbini)
+More information in [Wikipedia](https://en.wikipedia.org/wiki/Lumbini)
 
 	𑀤𑁂𑀯𑀸𑀦𑀁𑀧𑀺𑀬𑁂𑀦 𑀧𑀺𑀬𑀤𑀲𑀺𑀦 𑀮𑀸𑀚𑀺𑀦𑀯𑀻𑀲𑀢𑀺𑀯𑀲𑀸𑀪𑀺𑀲𑀺𑀢𑁂𑀦
  	Devānaṃpiyena Piyadasina lājina vīsati-vasābhisitena
