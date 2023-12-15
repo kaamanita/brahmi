@@ -1,7 +1,7 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
 <!--Created by Ukelele version 359 on 2566-12-15 at 21:53 (GMT+7)-->
-<!--Last edited by Ukelele version 359 on 2566-12-15 at 23:39 (GMT+7)-->
+<!--Last edited by Ukelele version 359 on 2566-12-15 at 23:49 (GMT+7)-->
 <keyboard group="126" id="-23181" name="Kharosthi" maxout="1">
     <layouts>
         <layout first="0" last="17" mapSet="ANSI" modifiers="Modifiers"/>
@@ -180,7 +180,7 @@
             <key code="13" output="𐨮"/>
             <key code="14" output="𐨅𐨌"/>
             <key code="15" output="𐨪𐨸"/>
-            <key code="16" output="𐨩𐨸"/>
+            <key code="16" output="𐨙"/>
             <key code="17" output="𐨠"/>
             <key code="18" output="𐩀"/>
             <key code="19" output="𐩁"/>
@@ -392,7 +392,7 @@
             <key code="13" output="𐨮𐨹"/>
             <key code="14" output="𐨀𐨅𐨌"/>
             <key code="15" output=""/>
-            <key code="16" output=""/>
+            <key code="16" output="𐨙𐨹"/>
             <key code="17" output="𐨠𐨹"/>
             <key code="18" output=""/>
             <key code="19" output=""/>
